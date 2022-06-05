@@ -7,7 +7,11 @@
     --container-size: 1024px;
     --card-title-background: #202020;
     --light_background: #242424;
-    --orange: #FFA800
+    --orange: #FFA800; 
+    --green: #96CB00;
+    --yellow: #ECDA00;
+    --purple: #7548C2;
+    --pink: #D095AB;
 }
 
 body {
